@@ -20,9 +20,13 @@ A la hora de twittear podemos añadir una **imagen** (logotipo de la cámara) qu
 
 ## Enriquece tu información con un enlace
 
-También podemos poner una dirección URL para acceder más información, pero para que tu tweet no sea un *chorizo de URL*, te recomendamos algún **acortador de URL** por ejemplo 
+También podemos poner una dirección URL para acceder más información, pero para que tu tweet no sea un *chorizo de URL*, te recomendamos algún **acortador de URL** 
 
-quiero acortar esta URL
+Un ejemplo de Tweet con URL corto :
+
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/tweet_de_ejemplo.png)
+
+Vamos a ver un ejemplo: quiero acortar esta URL
 
 https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/content/tweets.html
 
@@ -36,11 +40,9 @@ Y se convierte en
 
 http://cort.as/-PLpZ
 
+No obstante a mi me gusta TinyURL https://tinyurl.com/ ¿Por qué?
 
-un ejemplo de Tweet con URL corto :
+* nos asegura que el enlace nunca caduca
+* podemos poner alias
 
-
-![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/tweet_de_ejemplo.png)
-
-
-
+Por ejemplo https://catedu.github.io/domotica-con-arduino/22-preparando-mblck-y-arduino.html se convierte en https://tinyurl.com/mblockcatedu
