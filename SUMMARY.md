@@ -70,9 +70,11 @@
   * [4.7.3 Matricular participantes](matricular_participantes.md)
   * [4.7.4 Tutorizar](tutorizar.md)
 * [4.9 EdModo](edmodo.md)
+<!--
 * [4.10 GitBook](exelearning.md)
-* [4.11 Muro Padlet](muro_padlet.md)
-* [4.12 Fotos](fotos.md)
+-->
+* [4.10 Muro Padlet](muro_padlet.md)
+* [4.11 Fotos](fotos.md)
 
 ## 5. Interacción
 
@@ -89,8 +91,8 @@
   * [5.4.2 Cómo se envía](cmo_se_enva.md)
   * [5.4.3 Y si lo pruebas](y_si_lo_pruebas.md)
   * [5.4.4 Alternativa PlayBuzz](alternativa_playbuzz.md)
-* [5.5 ChatBro](55-chatbro.md)
-* [5.6 Slido](56-slido.md)
-* [5.7 Mentimeter](mentimeter.md)
+* <!--[5.5 ChatBro](55-chatbro.md)-->
+* [5.5 Slido](56-slido.md)
+* [5.6 Mentimeter](mentimeter.md)
 * [Créditos](creditos.md)
 
