@@ -47,3 +47,29 @@ Si enviamos un e-mail de prueba y nos lo enviará a nuestra cuenta de GMail cóm
 ![](/assets/correo-gmail-yamm6.jpg)
 
 Una vez hecha la comprobación podemos enviar ya los emails
+
+## B CON UN PROGRAMA DE CORREO ELECTRÓNICO : THUNDERBIRD
+
+### B1 Instalar Mail Merge
+
+En https://addons.thunderbird.net/en-GB/thunderbird/addon/mail-merge/ podemos instalar esta extensión de thunderbird
+
+![](/assets/correo-thunderbird1.jpg)
+
+### B2.- Guardamos nuestros datos en CSV
+
+Vamos a nuestra hoja de destinatarios que vimos en A2, ojo con los nombres de las cabeceras de las columnas que lo utilizaremos en nuestro email personalizado.
+
+![](/assets/correo-thunderbird4.jpg)
+
+Y lo grabamos en formato CSV (*Nota: Todos los programas de hojas de cálculo permiten esta opción, ya sea Google, Excell, Calc.. *)
+
+![](/assets/correo-thunderbird2.jpg)
+
+### B3.- Redactamos nuestro emails
+
+Redactamos poniendo en **destinatarios el nombre de la columna entre {{ }}** en nuestro caso se llama *email* y seguimos escribiendo con los campos personalizados también entre {{ }}
+
+![](/assets/correo-thunderbird3.jpg)
+
+### B4.- Enviamos el email
