@@ -2,7 +2,7 @@
 
 ## A.- Con GMail y YAMM
 
-{% youtube}https://www.youtube.com/watch?v=-dAFP3YyAWo&feature=emb_logo{ %endyoutube}
+{% youtube %}https://www.youtube.com/watch?v=-dAFP3YyAWo&feature=emb_logo{% endyoutube %}
 
 ### A1. Redacta tu GMail
 Entra en tu correo electrónico y redacta tu correo, pero :
