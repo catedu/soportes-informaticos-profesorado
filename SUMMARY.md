@@ -47,7 +47,7 @@
   * [3.2.2 Difunde](difunde.md)
   * [3.2.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
   * [3.2.4 Grupos](324-grupos.md)
-* [3.3 Email](correo.md)
+* [3.3 Email](correo1.md)
   * [3.3.1 Combinar](correo-combinar.md)
   * [3.3.2 MailChip](correo-mailchip.md)
 

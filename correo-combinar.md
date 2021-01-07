@@ -30,7 +30,7 @@ Vamos a Complementos->Descargar complementos - Buscamos YAMM Yet Another Mail Me
 
 ![](/assets/correo-gmail-yamm3.jpg)
 
-### A3. INICIAMOS LA COMBINACIÓN DE CORRESPONDENCIA
+### A4. INICIAMOS LA COMBINACIÓN DE CORRESPONDENCIA
 
 Entramos en el complemento instalado e iniciamos la combinación :
 
@@ -79,21 +79,21 @@ Redactamos poniendo en **destinatarios el nombre de la columna entre doble llave
 
 Nos vamos a Archivo-Mail Merge (también hay un botón arriba a la derecha) y rellenamos
 
-1. Nuestro fichero fuente es un CSV tal y como hemos hecho en B2
-1. Aconsejamos "Send Later" y así podemos previsualizar el resultado
-1. Elegimos el fichero CSV
-1. Si nuestra fuente es un Excell recomendamos poner Windows1258
-1. La delimitación de campos puede ser ; o ,
-1. La delmitación de texto puede ser ninguna o "
-1. Hay que modificar los puntos 4, 5 y 6 hasta que en Preview se vea correctamente
-1. Ok y lo pone en la bandeja de salida  
+1. Nuestro fichero fuente es un **CSV** tal y como hemos hecho en B2
+1. Aconsejamos **Send Later** y así podemos previsualizar el resultado
+1. Elegimos el **fichero CSV**
+1. Elegimos la **fuente**. Por ejemplo si nuestra fuente es un Excell recomendamos poner Windows1258
+1. La **delimitación de campos** puede ser ; o ,
+1. La **delimitación de texto** puede ser ninguna o "
+1. Hay que modificar los puntos 4, 5 y 6 hasta que en **Preview se vea correctamente**
+1. **Ok** y lo pone en la bandeja de salida  
 
 
 ![](/assets/correo-thunderbird5.jpg)
 
 ### B5.- Previsualizar y enviar
 
-Al darle en el *2 Enviar más tarde* combina todos los emails y los pone en la bandeja de salida.
+Al darle en el *2 Enviar más tarde* combina todos los emails y los pone en la bandeja de salida por lo tanto podemos ver el resultado tranquilamente antes de enviarlo.
 
 ![](/assets/correo-thunderbird6.jpg)
 
