@@ -48,6 +48,9 @@ Si enviamos un e-mail de prueba y nos lo enviará a nuestra cuenta de GMail cóm
 
 Una vez hecha la comprobación podemos enviar ya los emails
 
+>PROBLEMA :
+>YAMM con el plan free tiene una limitación de envío de correos electrónicos al día, por eso proponemos otro método con Thunderbird :
+
 ## B CON UN PROGRAMA DE CORREO ELECTRÓNICO : THUNDERBIRD
 
 ### B1 Instalar Mail Merge
@@ -68,7 +71,7 @@ Y lo grabamos en formato CSV (*Nota: Todos los programas de hojas de cálculo pe
 
 ### B3.- Redactamos nuestro emails
 
-Redactamos poniendo en **destinatarios el nombre de la columna entre ""{{ }}""** en nuestro caso se llama *email* y seguimos escribiendo con los campos personalizados también entre ""{{ }}""
+Redactamos poniendo en **destinatarios el nombre de la columna entre doble llave** en nuestro caso se llama *email* y seguimos escribiendo con los campos personalizados también entre doble llave tal y como se ve en la figura siguiente :
 
 ![](/assets/correo-thunderbird3.jpg)
 
