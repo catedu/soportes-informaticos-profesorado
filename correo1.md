@@ -17,7 +17,13 @@ Vamos a explicar la técnica de correo combinado
   * B5. Previsualizar y enviar
 
 ## Dale chispa a tu mensaje
-Los mensajes texto son aburridos, siempre es mejor acompañarlos con un diseño visual atractivo pero con alta eficacia resultado/tiempo, veremos MailChimp.
+Los mensajes texto son aburridos, siempre es mejor acompañarlos con un diseño visual atractivo pero con alta eficacia resultado/tiempo, veremos **MailChimp**.
+
+1. Registro en Mailchimp
+1. Pon al menos un contacto
+1. Creamos un email
+1. Ponemos contenido
+1. Enviamos a nuestros destinatarios
 
 
 ![](/assets/email.jpg)
