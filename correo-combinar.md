@@ -72,4 +72,28 @@ Redactamos poniendo en **destinatarios el nombre de la columna entre {{ }}** en 
 
 ![](/assets/correo-thunderbird3.jpg)
 
-### B4.- Enviamos el email
+### B4.- Mail merge
+
+Nos vamos a Archivo-Mail Merge (también hay un botón arriba a la derecha) y rellenamos
+
+1. Nuestro fichero fuente es un CSV tal y como hemos hecho en B2
+1. Aconsejamos "Send Later" y así podemos previsualizar el resultado
+1. Elegimos el fichero CSV
+1. Si nuestra fuente es un Excell recomendamos poner Windows1258
+1. La delimitación de campos puede ser ; o ,
+1. La delmitación de texto puede ser ninguna o "
+1. Hay que modificar los puntos 4, 5 y 6 hasta que en Preview se vea correctamente
+1. Ok y lo pone en la bandeja de salida  
+
+
+![](/assets/correo-thunderbird5.jpg)
+
+### B5.- Previsualizar y enviar
+
+Al darle en el *2 Enviar más tarde* combina todos los emails y los pone en la bandeja de salida.
+
+![](/assets/correo-thunderbird6.jpg)
+
+Si está todo correcto, enviamos ya todos:
+
+![](/assets/correo-thunderbird7.jpg)
