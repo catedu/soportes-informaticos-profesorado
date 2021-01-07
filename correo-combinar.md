@@ -68,7 +68,7 @@ Y lo grabamos en formato CSV (*Nota: Todos los programas de hojas de cálculo pe
 
 ### B3.- Redactamos nuestro emails
 
-Redactamos poniendo en **destinatarios el nombre de la columna entre {{ }}** en nuestro caso se llama *email* y seguimos escribiendo con los campos personalizados también entre {{ }}
+Redactamos poniendo en **destinatarios el nombre de la columna entre ""{{ }}""** en nuestro caso se llama *email* y seguimos escribiendo con los campos personalizados también entre {{ }}
 
 ![](/assets/correo-thunderbird3.jpg)
 
