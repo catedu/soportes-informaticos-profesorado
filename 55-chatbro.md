@@ -18,4 +18,4 @@ Vamos a ver si lo entendemos... dos personas pueden interactuar en este chat [ht
 # ¿Funciona?¿la gente participa?
 Vaya que sí, en nuestros cursos de robótica se ha creado un grupo que participa con proyectos, dudas, compartir ideas, eventos.... 
 
-* [mira por ejemplo este curso de Arduino con mBlock](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/chat-robotica-educativa-aragon.html)
+* [mira por ejemplo este curso de Arduino con mBlock](https://catedu.github.io/programa-arduino-mediante-codigo/chat-robotica-educativa-aragon.html)

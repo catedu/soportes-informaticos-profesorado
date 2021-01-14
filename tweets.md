@@ -28,7 +28,7 @@ Un ejemplo de Tweet con URL corto :
 
 Vamos a ver un ejemplo: quiero acortar esta URL
 
-https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/content/tweets.html
+https://catedu.github.io/soportes-informaticos-profesorado/tweets.html
 
 Voy a la página http://cortas.elpais.com/ (existen muchas pon en Google "acortador URL")
 
