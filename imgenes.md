@@ -1,6 +1,6 @@
 # Imágenes
 
-Ya lo nombramos en [Antes de nada.](antes_de_nada.md)hay que tener cuidado con los **derechos de autor** [ver](https://catedu.gitbooks.io/manual-de-creadores/content/derechos_de_autor.html)
+Ya lo nombramos en [Antes de nada.](antes_de_nada.md)hay que tener cuidado con los **derechos de autor** [ver](https://catedu.github.io/manual-de-creadores/derechos_de_autor.html)
 
 Nuestro consejo es acudir a páginas web que permitan su copia y difusión.
 

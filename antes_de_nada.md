@@ -8,7 +8,7 @@ Lee bien lo que tienes que contener, lo describe en el [Artículo 12 Capitulo I
 - **Objetivos** (teniendo en cuenta los destinatarios, ni avanzados ni evidentes)
 - **Contenidos** (según la modalidad y duración de la actividad, hay que adecuarlos bien, ni extensos ni pobres y su forma de representarlos)
 
-Ojo con los plágios de textos e imágenes [ver](https://catedu.gitbooks.io/manual-de-creadores/content/derechos_de_autor.html)
+Ojo con los plágios de textos e imágenes [ver](https://catedu.github.io/manual-de-creadores/derechos_de_autor.html)
 
 ## ¿Qué herramienta elegir?
 

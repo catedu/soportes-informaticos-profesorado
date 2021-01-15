@@ -14,7 +14,7 @@ Sí por supuesto, puede ser que ya se ha usado o en uso (ponlo en la lupa de twi
 
 Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias personas con sólo una palabra. Por lógica hay dos tipos:
 
->**Ojo**: Ten en cuenta que **menores de 13 años no pueden tener cuenta Twitter** por lo tanto no puedes hacer chats con ellos [VER LEGALIDAD](https://catedu.gitbooks.io/redes-sociales-en-educacion/content/ojo-no-es-legal.html).
+>**Ojo**: Ten en cuenta que **menores de 13 años no pueden tener cuenta Twitter** por lo tanto no puedes hacer chats con ellos [VER LEGALIDAD](https://catedu.github.io/rrss-classroom/ojo-no-es-legal.html).
 
 - **Chats sincronizados**: Donde todos comentan en una hora concreta lo que quieran:
     - Puede ser en la misma actividad y todos comentar lo que dice el ponente, en este caso se recomienda **proyectar** en directo lo que dice la audiencia, muy recomendable en ponencias, conferencias.... pero sólo podrán participar los que tengan cuenta en Twitter y tengan un dispositivo para hacerlo, por ejemplo un smartphone.
@@ -30,7 +30,7 @@ Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias pe
 
 Estos hastag se pueden insertar en tu página Web, blog... 
 
-* [aquí tienes cómo embeber un botón hashtag](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/embeber_botn_hashtag.html)
-* [aquí como embeber un hashtag entero](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/embeber_tweets_hashtag.html)
-* [aquí como queda](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/cmo_queda_vamos_a_verlo_soportesformacion.html)
+* [aquí tienes cómo embeber un botón hashtag](https://catedu.github.io/soportes-informaticos-profesorado/embeber_botn_hashtag.html)
+* [aquí como embeber un hashtag entero](https://catedu.github.io/soportes-informaticos-profesorado/embeber_tweets_hashtag.html)
+* [aquí como queda](https://catedu.github.io/soportes-informaticos-profesorado/cmo_queda_vamos_a_verlo_soportesformacion.html)
 
