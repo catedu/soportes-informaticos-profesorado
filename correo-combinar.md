@@ -97,3 +97,19 @@ Al darle en el *2 Enviar más tarde* combina todos los emails y los pone en la b
 Si está todo correcto, enviamos ya todos:
 
 ![](/assets/correo-thunderbird7.jpg)
+
+## C.- ¿Y ficheros adjuntos personalizados?
+
+En nuestras hojas de cálculo de los destinatarios tiene que haber un campo que ponga los nombres de los ficheros fichero1.xxx fichero2.xxx ...
+
+El nombre de ese campo lo tenemos que recordar para el caso de MailMerge de Thunderbird, en este caso es *Adjunto*
+
+![](/assets/adjunto1.jpg)
+
+Si utilizas Gmail-YAMM esos ficheros tienen que estar en una carpeta Drive que se tiene que seleccionar en *Anexos personalizados* del diálogo :
+
+![](/assets/correo-gmail-yamm5.jpg)
+
+Si utlizas Thunderbird y MailMerge, esos ficheros tienen que estar en una carpeta en tu ordenador, por ejemplo tmp del C: y en el diálogo de MailMarge pon en el campo de Adjunto la ruta donde están los adjuntos seguido del nombre del campo donde están los nombres de los ficheros, en este caso C:\tmp\ seguido del nombre del campo que se llama Adjunto entre doble llave luego :
+
+![](/assets/adjunto2.jpg)
