@@ -116,3 +116,7 @@ Si utilizas Gmail-YAMM esos ficheros tienen que estar en una carpeta Drive que s
 Si utlizas Thunderbird y MailMerge, esos ficheros tienen que estar en una carpeta en tu ordenador, por ejemplo tmp del C: y en el diálogo de MailMarge pon en el campo de Adjunto la ruta donde están los adjuntos seguido del nombre del campo donde están los nombres de los ficheros, en este caso C:\tmp\ seguido del nombre del campo que se llama Adjunto entre doble llave luego :
 
 ![](/assets/adjunto2.jpg)
+
+## No envíes correos pesados o masivos
+
+Si tienes que adjuntar ficheros pesados, utiliza formatos de compresión apropiados (pdf, rar..) o mejor, utiliza repositorios en la web (Dropbox, [Drive](https://catedu.github.io/soportes-informaticos-profesorado/publicar.html), OneDrive...) y manda símplemente los enlaces, ayudarás a que no se llene la bandeja de entrada de los destinatarios.
