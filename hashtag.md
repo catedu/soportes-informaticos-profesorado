@@ -18,7 +18,7 @@ Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias pe
 
 - **Chats sincronizados**: Donde todos comentan en una hora concreta lo que quieran:
     - Puede ser en la misma actividad y todos comentar lo que dice el ponente, en este caso se recomienda **proyectar** en directo lo que dice la audiencia, muy recomendable en ponencias, conferencias.... pero sólo podrán participar los que tengan cuenta en Twitter y tengan un dispositivo para hacerlo, por ejemplo un smartphone.
-    - O hacer un debate en directo, quedar en una hora determinada y twittear, como pasa en [#eduhora](https://twitter.com/search?q=%23eduhora&amp;src=typd)
+    - O hacer un debate en directo, quedar en una hora determinada y twittear, como pasaba en [#eduhora](https://twitter.com/search?q=%23eduhora&amp;src=typd)
     
 - **Chats asincronos**: Por ejemplo este curso es on-line y cualquier persona entra y sale a cualquier hora, podemos crear un foro donde comentar lo que queramos (más o menos lo que hicimos en el muro del Tema 2)
     - Podemos poner en la página web de la actividad los tweets y un botón para twittear
