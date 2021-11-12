@@ -24,7 +24,7 @@ Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias pe
     - Podemos poner en la página web de la actividad los tweets y un botón para twittear
     - En este curso lo vas a hacer
         - En el curso de Soportes en [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd)
-        - En el curso de RRSS lo vas a hacer en  ##RRSSAULARAGON
+        - En el curso de RRSS lo vas a hacer en #RRSSAULARAGON
 
 ## ¿Se puede embeber ?
 
