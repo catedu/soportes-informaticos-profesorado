@@ -30,19 +30,17 @@ Vamos a ver un ejemplo: quiero acortar esta URL
 
 https://catedu.github.io/soportes-informaticos-profesorado/tweets.html
 
-Voy a la página http://cortas.elpais.com/ (existen muchas pon en Google "acortador URL")
+Voy a la página https://cutt.ly/es (existen muchas pon en Google "acortador URL")
 
-![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/assets/2019-09-06 10_20_08-Window.jpg)
 
 Y se convierte en 
 
-![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/assets/2019-09-06 10_20_21-Window.jpg)
 
-http://cort.as/-PLpZ
+https://cutt.ly/LTfBbfJ
 
 No obstante a mi me gusta TinyURL https://tinyurl.com/ ¿Por qué?
 
 * nos asegura que el enlace nunca caduca
 * podemos poner alias
 
-Por ejemplo https://catedu.github.io/domotica-con-arduino/22-preparando-mblck-y-arduino.html se convierte en https://tinyurl.com/mblockcatedu
+Por ejemplo https://catedu.github.io/soportes-informaticos-profesorado/tweets.html se convierte en https://tinyurl.com/wxpd3sf4
