@@ -20,7 +20,7 @@ Este otro **[manual de JR Olalla](http://jr2punto0.blogspot.com.es/2013/11/publi
 
 Posibles **desventajas**:
 
-- Para que los alumnos participen, o para crear ellos un blog, tienen que tener una cuenta de email, y para ello hay que tener más de 13 años. Una opción es utilizar [G-suite para educación](classroom.google.com).
+- Para que los alumnos participen, o para crear ellos un blog, tienen que tener una cuenta de email, y para ello hay que tener más de 13 años. Una opción es utilizar [G-suite para educación](https://edu.google.com/).
 - No hay muchas plantillas para elegir.
 - El Sistema de comentarios es bastante malo (aunque eso se puede arreglar cambiando a IntenseDebate o Disqus, por ejemplo).
 - Sólo se pueden crear un máximo de 10 páginas estáticas/fijas.
