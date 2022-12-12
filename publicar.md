@@ -2,7 +2,7 @@
 
 ## Compartir solo lectura (publicar)
 
-Una vez que tenemos el documento ya finalizado, podemos publicarlo en las redes sociales, página Web, etc... para obtener el enlace tenemos que rehacer los mismos pasos pero com sólo lectura. Tiene la ventaja de que una modificación se refleja en el mismo documento.
+Una vez que tenemos el documento ya finalizado, podemos publicarlo en las redes sociales, página Web, etc... para obtener el enlace tenemos que rehacer los mismos pasos pero como sólo lectura. Tiene la ventaja de que una modificación se refleja en el mismo documento.
 
 No recomendamos **Archivo - Publicar en la Web** pues en el caso de los Documentos se trastoca todo [ver ejemplo](https://docs.google.com/document/d/1bu1apdbeQ69VH2bBJYrJZxn9BXGE9TY6m0hyVAHBmMI/pub)
 
