@@ -1,7 +1,7 @@
 
 # Sólo unos consejos
 
-Aquí no vamos ha hacer un tutorial de Word, si quieres hacer un curso [entra en este curso de Aularagon, puedes entrar como invitado](http://moodle.catedu.es/course/view.php?id=93)
+Aquí no vamos a hacer un tutorial de Word, si quieres hacer un curso [entra en este curso de Aularagon, puedes entrar como invitado](http://moodle.catedu.es/course/view.php?id=93)
 
 - **No** utilices **WordArt** ni las **imágenes prediseñadas** ¡¡ todo el mundo lo usa !!!
 - **No abuses** del texto, la gente ya lee en Z, lo primero y lo último que sea lo más importante, más ser vale breve y claro.
