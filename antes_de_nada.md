@@ -16,7 +16,7 @@ Por supuesto esto es **orientativo**, por favor no hay que tomarlo como la bibli
 
 - Una actividad normal que sólo lo coordinas y diseñas tú: **Individual** - **Word**.
     - *Cuando decimos Word de Microsoft también nos podemos referir a Write de LibreOffice*
-- Una actividad donde intervienen varios compañeros en el diseño, ya sea dentro del CIFE o sois varios coordinadores: **Colaborativo** - **Google Drive**
+- Una actividad donde intervienen varios compañeros en el diseño, ya sea dentro del CP o sois varios coordinadores: **Colaborativo** - **Google Drive**
 - Una actividad donde el diseño es importante, la cartelería, etc.. tipo congreso, jornadas:
     - **En papel** **Scribus**
     - En formato muy **visual y perfecto on-line** **Canva**
