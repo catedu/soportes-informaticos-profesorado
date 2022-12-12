@@ -9,6 +9,6 @@ Tu documento ya está listo: Publícalo, difúndelo, imprime... pero asegúrate 
 
 ## Ojo la primera vez que lo haces te pide instalar el complemento
 
-No hay problema, te llevará [a una página de Microsoft](https://www.microsoft.com/es-es/download/details.aspx?id=7), totalmente seguro, instala y ya lo tienes configurado para siempre en tu ordenador
+No hay problema, te llevará a una página de Microsoft, totalmente seguro, instala y ya lo tienes configurado para siempre en tu ordenador
 
 ![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_09_04_09-Download_Complemento_de_Microsoft_Office_2007__Guardar_como_PDF_o_XPS_de_Microso.png)
