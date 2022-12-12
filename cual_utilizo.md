@@ -8,7 +8,7 @@ Un **blogger** lo vemos muy apropiado a nivel de actividad, el COFO, en blogger 
 
 Si no quieres un formato blog, pero tampoco estático... algo intermedio, buena relación sencillez-calidad, una página web con muchas posibilidades para embeber y representar información, fácil y que permita la colaboración: **Google Site** es tu soporte para tu actividad.
 
-Igualmente en las plataformas basadas en **Moodle** podemos crear aulas donde añadir actividades y tener a todos los asistentes participando en foros, revisando contenido y creando de manera autónoma o colaborativa a través de sus actividades. Tiene un buen potencial de comunicación por mensajería, foros y videoconferencias.
+Igualmente en las plataformas basadas en **Moodle (Aeducar, Aramoodle)** podemos crear aulas donde añadir actividades y tener a todos los asistentes participando en foros, revisando contenido y creando de manera autónoma o colaborativa a través de sus actividades. Tiene un buen potencial de comunicación por mensajería, foros y videoconferencias.
 
 Un **Google Classroom** lo vemos apropiado para crear contenidos, documentos, compartir dentro del ámbito de trabajo de Google Drive e igual que Moodle: sólo para cursos o actividades en red.
 
