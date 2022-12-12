@@ -11,7 +11,7 @@ En este sencillo pero interesante y útil manual, viene todo explicado con gran 
 - Completamante gratis.
 - Tiene un Diseñador de plantillas incluido para modificar el diseño, las fuentes y colores de tu blog sin saber nada de código HTML o CSS.
 - Incluye  un editor de HTML para personalizaciones avanzadas.
-- Se pueden añadir muchos gadgets y organizarlos con su interfazl, arrastrando y soltando los elementos donde tú quieras.
+- Se pueden añadir muchos gadgets y organizarlos con su interfaz, arrastrando y soltando los elementos donde tú quieras.
 - Blogger no muestra anuncios en tu blog.
 - Se integra bien con otros servicios de Google.
 - Puede ser colaborativo, es decir que otra gente participe y editen y publiquen artículos ([ver](https://support.google.com/blogger/answer/42673?hl=es))
