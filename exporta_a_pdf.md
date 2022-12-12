@@ -1,6 +1,6 @@
 # Exporta a PDF
 
-Tu documento ya está listo: Publícalo, difúndelo, imprime... pero asegúrate que se vea bien en cualquier equipo, móvil, web.... la forma más segura es el estandard PDF
+Tu documento ya está listo: Publícalo, difúndelo, imprime... pero asegúrate que se vea bien en cualquier equipo, móvil, web.... la forma más segura es el estándar PDF
 
 - Hay impresoras virtuales cómodas que convierten en PDF pero a veces no respetan a la perfección el Word, por ejemplo tablas e hipervínculos
 - Utiliza el complemento de Guardar como PDF integrado en Word
