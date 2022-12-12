@@ -4,7 +4,7 @@
 
 Tienes dos opciones:
 
-- En CATEDU, puedes pedirlo en [CATEDU -Registrarse](http://www.catedu.es/webcatedu/index.php/buenas-practicas/158-servicios-de-catedu) como cualquier docente de Aragón, están pensados como blog de aula, página web de centro, a nivel de actividad de formación... Lo instalamos en una instancia multisitio, donde tendrás asegurado las actualizaciones y la seguridad. Tú decidirás qué nombre poner, por ejemplo **miactividad**.
+- En CATEDU, puedes pedirlo en [CATEDU - Soporte](https://catedu.es/soporte-catedu/) como cualquier docente de Aragón, están pensados como blog de aula, página web de centro, a nivel de actividad de formación... Lo instalamos en una instancia multisitio, donde tendrás asegurado las actualizaciones y la seguridad. Tú decidirás qué nombre poner, por ejemplo **miactividad**.
 - Hay otra opción es  [https://es.wordpress.com/](https://es.wordpress.com/)  donde cualquier persona puede crear uno de forma gratuita, pero no tiene tantos grados de libertad como los que ofrece CATEDU. 
 
 ## Una vez creado
