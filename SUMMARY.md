@@ -72,12 +72,12 @@
   * [4.8.2 Poner actividad](poner_actividad.md)
   * [4.8.3 Matricular participantes](matricular_participantes.md)
   * [4.8.4 Tutorizar](tutorizar.md)
-* [4.9 EdModo](edmodo.md)
 <!--
+* [4.9 EdModo](edmodo.md)
 * [4.10 GitBook](exelearning.md)
 -->
-* [4.10 Muro Padlet](muro_padlet.md)
-* [4.11 Fotos](fotos.md)
+* [4.9 Muro Padlet](muro_padlet.md)
+* [4.10 Fotos](fotos.md)
 
 ## 5. Interacción
 
