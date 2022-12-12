@@ -8,13 +8,9 @@ Un **blogger** lo vemos muy apropiado a nivel de actividad, el COFO, en blogger 
 
 Si no quieres un formato blog, pero tampoco estático... algo intermedio, buena relación sencillez-calidad, una página web con muchas posibilidades para embeber y representar información, fácil y que permita la colaboración: **Google Site** es tu soporte para tu actividad.
 
-Igualmente **Edmodo** podemos abrir tantas clases como actividades y tener a todos los asistentes conectados en contenidos y actividades por medio de la plataforma.Tiene un buen potencial de comunicación luego lo vemos apropiado para actividades de equipo inter-centros o donde los asistentes no pueden estar presencialmente reunidos para comunicarse.
+Igualmente en las plataformas basadas en **Moodle** podemos crear aulas donde añadir actividades y tener a todos los asistentes participando en foros, revisando contenido y creando de manera autónoma o colaborativa a través de sus actividades. Tiene un buen potencial de comunicación por mensajería, foros y videoconferencias.
 
-Abrir una instancia **Moodle** es apropiado para un curso o unas actividades en red (puede ser la parte en red de una actividad semipresencial)
-
-Un **Google Classroom** lo vemos apropiado para crear contenidos, documentos, compartir dentro del ámbito de trabajo de Google Drive e igual que Moodle: sólo para un cursos o actividades en red.
-
-**Gitbook**, para crear un contenido un poco más estático para una actividad, tipo libro, ésto que lees es un Gitbook.
+Un **Google Classroom** lo vemos apropiado para crear contenidos, documentos, compartir dentro del ámbito de trabajo de Google Drive e igual que Moodle: sólo para cursos o actividades en red.
 
 Las **fotos** es apropiado para resaltar la parte identidad de equipo, convivencia... a nivel de actividad, con una cuenta de Flick o Google podemos abrir tantos álbumes-actividades como queramos y embeber esas fotos en el blog por ejemplo. También es ideal para unas** jornadas, congreso... **
 
