@@ -21,6 +21,7 @@ Entramos en Google - Drive con nuestra cuenta y abrimos un nuevo formulario:
 - **Escala**: En este caso se pide adjudicar una calificación en una escala numérica, cuyos límites podemos personalizar, por ejemplo del 1 al 5 o del 1 al   10. Para evitar confusiones se nos permite añadir una descripción a los límites.
 - **Cuadrícula**: Es la más compleja, permite construir un cuadro de doble entrada
 
+<!--
 Aquí tienes unos video tutoriales creado por CATEDU
 
 {% youtube %}https//www.youtube.com/watch?v=klCYOWFY83I{% endyoutube %}
@@ -28,7 +29,8 @@ Aquí tienes unos video tutoriales creado por CATEDU
 {% youtube %}https//www.youtube.com/watch?v=-FjkY44390A{% endyoutube %}
 
 {% youtube %}https//www.youtube.com/watch?v=idLgIqufbZc{% endyoutube %}
+-->
 
-Aquí tienes una página web que igualmente lo explica bien:
+Aquí tienes una página web que lo explica bien:
 
 <iframe src="//es.wikieducator.org/index.php?curid=3922" width="100%" height="2000">WikiEducator </iframe>
