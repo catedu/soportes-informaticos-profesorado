@@ -18,7 +18,6 @@ Otra necesidad es una plataforma de espacio de trabajo, o Aula Virtual, es decir
 
 En estas herramientas pedimos que los participantes colaboren en los contenidos de la actividad:
 
-- **Edmodo** tiene un formato de red social, permite colgar contenidos pero el objetivo es la interacción entre todos.
 - **Padlet** es una opción sencilla tipo muro donde los participantes puede poner sus ideas ideal para braimstormings digitales.
 - **Fotos**: Donde los participantes pueden ver y colaborar en las fotos de la actividad. Esto es adecuado para participantes donde la convivencia y la identidad de equipo es un objetivo importante.
 
