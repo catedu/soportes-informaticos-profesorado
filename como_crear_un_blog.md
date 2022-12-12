@@ -6,8 +6,6 @@ Aquí tienes[ un sencillo video tutorial en formato FLASH ](http://aularagon.cat
 
 En este sencillo pero interesante y útil manual, viene todo explicado con gran detalle, [**manual de Raul Diego Obregón.**](http://www.rauldiego.es/manual-blogger/)
 
-Este otro **[manual de JR Olalla](http://jr2punto0.blogspot.com.es/2013/11/publicar-en-arablogs.html)** es más sencillo que el anterior, en 10 páginas explica Blogger
-
 **Ventajas** para su uso:
 
 - Completamante gratis.
