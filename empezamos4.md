@@ -31,6 +31,8 @@ Aquí tienes unos video tutoriales creado por CATEDU
 {% youtube %}https//www.youtube.com/watch?v=idLgIqufbZc{% endyoutube %}
 -->
 
-Aquí tienes una página web que lo explica bien:
+[Aquí](https://es.wikieducator.org/index.php?curid=3922) tienes una página web que lo explica bien.
 
+<!--
 <iframe src="//es.wikieducator.org/index.php?curid=3922" width="100%" height="2000">WikiEducator </iframe>
+-->
