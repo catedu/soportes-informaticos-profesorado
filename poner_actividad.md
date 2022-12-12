@@ -1,7 +1,7 @@
 
 # Poner actividad
 
-En Moolde podemos poner muchos tipos de actividades. Nosotros recomendamos estos :
+En Moodle podemos poner muchos tipos de actividades. Nosotros recomendamos estos:
 
 - **Tarea** la más común, el alumno tiene que entregar algo
 - **Cuestionario** tipo test, y la plataforma pone la nota automáticamente
