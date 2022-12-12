@@ -5,9 +5,9 @@ Aquí no vamos a hacer un tutorial de Word, si quieres hacer un curso [entra en 
 
 - **No** utilices **WordArt** ni las **imágenes prediseñadas** ¡¡ todo el mundo lo usa !!!
 - **No abuses** del texto, la gente ya lee en Z, lo primero y lo último que sea lo más importante, más vale ser breve y claro.
-    - Lo accesorio o ampliación es mejor poner en forma de hipervínculo a una web
+    - Lo accesorio o ampliación es mejor ponerlo en forma de hipervínculo a una web
 - Documento amigable:
-    - Usa **negritas** para destacar palabras clave (no pongas negrita más de 3 palabras seguidas)
+    - Usa **negritas** para destacar palabras clave (no pongas negrita a más de 3 palabras seguidas)
     - Usa **viñetas** para varios conceptos y evitar la redacción con conectores.
     - <font color="red">**Color**</font>, por favor, diferentes estilos de letra, y alguna imagen
 - **Expórtalo como PDF**, si publicas en Word, el otro usuario puede verlo descuadrado porque no tiene las letras instaladas o simplemente no tiene porqué tener el Word instalado.
