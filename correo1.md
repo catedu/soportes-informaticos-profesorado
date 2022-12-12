@@ -1,6 +1,6 @@
 # Correo electrónico
 
-No vamos ha hacer aquí un tutorial de cómo enviar un correo electrónico pero sí cómo hacerlo más atractivo y eficaz. Vamos a ver :
+No vamos a hacer aquí un tutorial de cómo enviar un correo electrónico pero sí cómo hacerlo más atractivo y eficaz. Vamos a ver :
 
 ## Personaliza tus emails
 Vamos a explicar la técnica de correo combinado
